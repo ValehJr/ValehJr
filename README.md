@@ -4,7 +4,7 @@ I'm an iOS Developer 
 </h2> 
 
 <h4 align="left">
-  Detail-oriented iOS Developer with experience in creating innovative solutions and efficient applications.
+  Detail-oriented iOS Developer with experience in creating innovative solutions and efficient applications. Adept at problem-solving and dedicated to continuous learning.
 </h4>
 
 <h3>Main Skills</h3>
