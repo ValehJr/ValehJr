@@ -13,10 +13,7 @@ I'm an iOS Developer 
 
 <h3>📈 GitHub Stats</h3>
 
-<div style="display: flex; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=valehjr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="valehjr's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valehjr&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="valehjr's Streak" />
-</div>
+ ![valehjr's Stats](https://github-readme-stats.vercel.app/api?username=valehjr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
 <h3>Connect with me:</h3>
 
