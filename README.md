@@ -15,7 +15,7 @@ I'm an iOS Developer 
 
  ![valehjr's Stats](https://github-readme-stats.vercel.app/api?username=valehjr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
-<h3>Connect with me:</h3>
+<h3>🤝🏼 Connect with me</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/valehjr/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
