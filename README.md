@@ -1,10 +1,10 @@
 # Valeh Ismayilov
-**iOS Developer ** > Detail-oriented developer focused on creating efficient mobile solutions and modular architectures.
+**iOS Developer ** -> Detail-oriented developer focused on creating efficient mobile solutions and modular architectures.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - **Languages:** Swift, Java, C, Python
 - **Backend/Tools:** Firebase, Git, GitHub, GitLab
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/valehjr/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:i.valehjr@gmail.com)
